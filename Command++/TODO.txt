@@ -4,10 +4,10 @@ History: Maintain a history of executed commands so users can easily navigate an
 
 Customization: Allow users to customize the prompt appearance, color schemes, and other settings to make the interface more user-friendly.
 
-Output Formatting: Format the output of commands to make it more readable. You might support options like pretty-printing, tabular output, and color-coded text.
+Output Formatting: Format the output of commands to make it more readable. might support options like pretty-printing, tabular output, and color-coded text.
 
 Help System: Implement a help system that provides information about available commands, their usage, and descriptions.
 
-Scripting Support: Allow users to create and execute scripts containing a sequence of commands. This could involve reading commands from a file and executing them sequentially.
+Scripting Support: Allow users to create and execute scripts containing a sequence of commands. could involve reading commands from a file and executing them sequentially.
 
 Error Handling: Provide informative error messages when users enter invalid commands or encounter errors during command execution.
